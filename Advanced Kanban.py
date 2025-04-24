@@ -1,3 +1,14 @@
+"""
+A basic terminal-based Kanban board system for managing tasks using columns:
+'To Do', 'In Progress', and 'Done'.
+
+Features:
+- Add new tasks to columns
+- Display current tasks
+- Mark tasks as complete
+
+Developed as part of a university project to demonstrate problem-solving and basic system design using Python.
+"""
 print("---Welcome to BasicKanban---")
 print("1) Register")
 print("2) Login")
